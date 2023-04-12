@@ -33,4 +33,4 @@ async def on_message(message):
     else:
         await message.channel.send("Я не понимаю такую команду!")
 
-client.run(settings["TOKEN"])
+client.run(settings["TOKEN justh here "])
